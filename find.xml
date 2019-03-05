@@ -1,10 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
+    <option name="customScope" value="Project 'FullCRM'" />
+    <option name="defaultScopeName" value="Project 'FullCRM'" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'FullCRM'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
