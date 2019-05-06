@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/va-b/korobova3.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="iberdnikov" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Vano\RiderProjects" />
